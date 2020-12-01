@@ -1,0 +1,40 @@
+
+=== Officially Only Posted On dielikekane.wordpress.com =======================
+
+=== MAP-RESOLUTION ============================================================
+	DLK HD Atlas Map For FiveM 6X 3072X3072 Pixels
+
+=== INSTALLATION ==============================================================
+	Copy & Paste The citizen Folder To Your [FiveM Application Data] Folder.
+
+	Paste In Twice To Make Sure All Files Are Copied,
+	Make Sure To Click [Replace the files in the destination].
+
+=== FILES =====================================================================
+	File Names And Locations.
+
+	FiveM Application Data\citizen\common\data\ui\
+	mapzoomdata.meta
+
+	FiveM Application Data\citizen\platform\data\cdimages\scaleform_generic\
+	minimap_0_0.ytd
+	minimap_0_1.ytd
+	minimap_1_0.ytd
+	minimap_1_1.ytd
+	minimap_2_0.ytd
+	minimap_2_1.ytd
+	minimap_lod_128.ytd
+	minimap_sea_0_0.ytd
+	minimap_sea_0_1.ytd
+	minimap_sea_1_0.ytd
+	minimap_sea_1_1.ytd
+	minimap_sea_2_0.ytd
+	minimap_sea_2_1.ytd
+
+=== IMPORTANT ==================================================================
+	Some People Only Copy The Minimap Files,
+	Then Wounder Why They See The GTAV Original Map When Zooming In.
+
+	mapzoomdata.meta
+	This File Must Be There For Map Zoom To Work.
+
